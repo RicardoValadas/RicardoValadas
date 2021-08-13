@@ -1,6 +1,7 @@
+ ![Header](https://github.com/RicardoValadas/RicardoValadas/blob/main/header.jpg)
+
 ### Hi there 👋 my name is Ricardo i'm a web developer :technologist:
 
- ![Header](https://github.com/RicardoValadas/RicardoValadas/blob/main/header.jpg)
 
 ###  :computer: I’m currently learning Laravel
 
