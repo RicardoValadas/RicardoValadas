@@ -5,6 +5,14 @@
 
 ###  :computer: I’m currently learning Laravel
 
+* javascript
+* typescript
+* angular
+* react
+* html
+* css/sass
+* php
+
 
 
 <!--
