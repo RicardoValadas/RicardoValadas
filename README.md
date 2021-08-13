@@ -5,6 +5,7 @@
 
 ###  :computer: I’m currently learning Laravel
 
+### I learned
 * javascript
 * typescript
 * angular
