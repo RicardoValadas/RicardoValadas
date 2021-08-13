@@ -1,8 +1,11 @@
 ### Hi there 👋
+ ![Header](https://github.com/RicardoValadas/RicardoValadas/blob/main/header.jpg)
+
+###  :computer: I’m currently learning
+
+:technologist:
 
 <!--
-
-[![Header](https://raw.githubusercontent.com/RicardoValadas/<OWNER>/<OWNER>/readme_header.jpg "Header")](https://some-url.dev/)
 
 Here are some ideas to get you started:
 
