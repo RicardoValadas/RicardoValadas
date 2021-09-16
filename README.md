@@ -3,7 +3,7 @@
 ### Hi there 👋 my name is Ricardo i'm a web developer :technologist:
 
 
-###  :computer: I’m currently learning Laravel
+###  :computer: I’m currently practicing react and typescript with node.js
 
 ### Skills
 * javascript
@@ -13,19 +13,16 @@
 * html
 * css/sass
 * php
+* Laravel
+
+### Skills to learn in the future
+* Azure
+* C#
+* .Net
+* Vue.js
+* Symphony
+* Node.js and deno
+* Svelte
+* Practice more about api
 
 
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
