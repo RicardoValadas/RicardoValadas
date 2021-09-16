@@ -1,4 +1,4 @@
- ![Header](https://github.com/RicardoValadas/RicardoValadas/blob/main/header.jpg)
+ ![Header](https://github.com/RicardoValadas/RicardoValadas/blob/main/header.png)
 
 ### Hi there 👋 my name is Ricardo i'm a web developer :technologist:
 
