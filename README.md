@@ -3,8 +3,6 @@
 ### Hi there 👋 my name is Ricardo i'm a web developer :technologist:
 
 
-###  :computer: I’m currently practicing react and typescript with node.js
-
 ### Skills
 * javascript
 * typescript
