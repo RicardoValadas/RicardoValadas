@@ -13,6 +13,8 @@
 * css/sass
 * php
 * Laravel
+* cypress
+* storybook
 
 
 
